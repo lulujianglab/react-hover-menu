@@ -1,6 +1,6 @@
 {
   "name": "react-hover-menu",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "react hover or click menu component",
   "main": "dist/bundle.js",
   "files": [
