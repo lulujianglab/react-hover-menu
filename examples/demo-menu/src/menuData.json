@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "name": "京东商城",
+    "parentId": 0,
+    "children": [
+      {
+        "id": 2,
+        "name": "京东超市",
+        "parentId": 1,
+        "children": [
+          {
+            "id": 3,
+            "name": " xxxx1",
+            "parentId": 2
+          },
+          {
+            "id": 4,
+            "name": "xxxx2",
+            "parentId": 2
+          },
+          {
+            "id": 5,
+            "name": "xxxx3",
+            "parentId": 2
+          },
+          {
+            "id": 6,
+            "name": "xxxx4",
+            "parentId": 2
+          },
+          {
+            "id": 7,
+            "name": "xxxx5",
+            "parentId": 2
+          },
+          {
+            "id": 8,
+            "name": "xxxx6",
+            "parentId": 2
+          },
+          {
+            "id": 9,
+            "name": "xxxx7",
+            "parentId": 2
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "京东旅行",
+        "parentId": 1,
+        "children": [
+          {
+            "id": 11,
+            "name": "xxxx1",
+            "parentId": 14
+          },
+          {
+            "id": 12,
+            "name": "xxxx2",
+            "parentId": 14
+          },
+          {
+            "id": 13,
+            "name": "xxxx3",
+            "parentId": 14
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "京东时尚",
+        "parentId": 1,
+        "children": [
+          {
+            "id": 15,
+            "name": "xxxx1",
+            "parentId": 20
+          },
+          {
+              "id": 16,
+              "name": "xxxx4",
+              "parentId": 20
+          },
+          {
+              "id": 17,
+              "name": "xxxx5",
+              "parentId": 20
+          },
+          {
+              "id": 18,
+              "name": "xxxx6",
+              "parentId": 20
+          },
+          {
+              "id": 19,
+              "name": "xxxx7",
+              "parentId": 20
+          },
+          {
+              "id": 20,
+              "name": "xxxx8",
+              "parentId": 20
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "京东生鲜",
+        "parentId": 1,
+        "children": [
+          {
+            "id": 22,
+            "name": "xxxx1",
+            "parentId": 30
+          },
+          {
+            "id": 23,
+            "name": "xxxx2",
+            "parentId": 30
+          },
+          {
+            "id": 24,
+            "name": "xxxx3",
+            "parentId": 30
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "京东到家",
+        "parentId": 1,
+        "children": [
+          {
+            "id": 26,
+            "name": "xxxx1",
+            "parentId": 35
+          },
+          {
+            "id": 27,
+            "name": "xxxx2",
+            "parentId": 35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "唯品会商城",
+    "parentId": 0,
+    "children": [
+      {
+        "id": 29,
+        "name": "美妆",
+        "parentId": 30,
+        "children": [
+          {
+            "id": 30,
+            "name": "xxxx1",
+            "parentId": 44
+          },
+          {
+            "id": 31,
+            "name": "xxxx2",
+            "parentId": 44
+          },
+          {
+            "id": 32,
+            "name": "xxxx3",
+            "parentId": 44
+          },
+          {
+            "id": 33,
+            "name": "xxx4",
+            "parentId": 44
+          },
+          {
+            "id": 34,
+            "name": "xxxx5",
+            "parentId": 44
+          },
+          {
+            "id": 35,
+            "name": "xxxx6",
+            "parentId": 44
+          },
+          {
+            "id": 36,
+            "name": "xxxx7",
+            "parentId": 44
+          },
+          {
+            "id": 37,
+            "name": "xxxx8",
+            "parentId": 44
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "母婴",
+        "parentId": 43,
+        "children": [
+          {
+            "id": 39,
+            "name": "xxxx1",
+            "parentId": 53
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "国际",
+        "parentId": 43,
+        "children": [
+          {
+            "id": 41,
+            "name": "xxxx1",
+            "parentId": 57
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "家电",
+        "parentId": 43,
+        "children": [
+          {
+            "id": 43,
+            "name": "xxxx1",
+            "parentId": 63
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "name": "家居",
+        "parentId": 43,
+        "children": [
+          {
+            "id": 45,
+            "name": "xxxx1",                    
+            "parentId": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "网易考拉",
+    "parentId": 0,
+    "children": [
+      {
+        "id": 47,
+        "name": "考拉国际",
+        "parentId": 69,
+        "children": [
+          {
+            "id": 48,
+            "name": "xxxx1",
+            "parentId": 70
+          },
+          {
+            "id": 49,
+            "name": "xxxx2",
+            "parentId": 70
+          },
+          {
+            "id": 50,
+            "name": "xxxx3",
+            "parentId": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "淘宝商城",
+    "parentId": 0,
+    "children": [
+      {
+        "id": 52,
+        "name": "天猫",
+        "parentId": 74,
+        "children": [
+          {
+            "id": 53,
+            "name": "xxxx1",
+            "parentId": 75
+          },
+          {
+            "id": 54,
+            "name": "xxxx2",
+            "parentId": 75
+          },
+          {
+            "id": 55,
+            "name": "xxxx3",
+            "parentId": 75
+          },
+          {
+            "id": 56,
+            "name": "xxxx4",
+            "parentId": 75
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "聚划算",
+        "parentId": 74,
+        "children": [
+          {
+            "id": 58,
+            "name": "xxxx1",
+            "parentId": 80
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "亚马逊购物",
+    "parentId": 0,
+    "children": [
+      {
+        "id": 60,
+        "name": "海外购",
+        "parentId": 87,
+        "children": [
+          {
+            "id": 61,
+            "name": "xxxx1",
+            "parentId": 88
+          },
+          {
+            "id": 62,
+            "name": "xxxx2",
+            "parentId": 88
+          },
+          {
+            "id": 63,
+            "name": "xxxx3",
+            "parentId": 88
+          },
+          {
+            "id": 64,
+            "name": "xxxx4",
+            "parentId": 88
+          },
+          {
+            "id": 65,
+            "name": "xxxx5",
+            "parentId": 88
+          },
+          {
+            "id": 66,
+            "name": "xxxx6",
+            "parentId": 88
+          },
+          {
+            "id": 67,
+            "name": "xxxx7",
+            "parentId": 88
+          },
+          {
+            "id": 68,
+            "name": "xxxx8",
+            "parentId": 88
+          }
+        ]   
+      }
+    ]
+  }
+]

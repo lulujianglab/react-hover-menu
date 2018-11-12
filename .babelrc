@@ -1,0 +1,9 @@
+{
+  "presets": ["react","env"],
+  "plugins": ["react-hot-loader/babel",["import", { "libraryName": "antd", "libraryDirectory": "lib", "style": "css" }]],
+  "env": {
+    "production":{
+      "preset":["react-optimize"]
+    }
+  }
+}
