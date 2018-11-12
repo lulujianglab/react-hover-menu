@@ -30,3 +30,7 @@ npm start
 ```
 npm run build
 ```
+
+## example
+
+![image](https://user-images.githubusercontent.com/26807227/48323813-f3702380-e668-11e8-8f70-707bcc7b62b4.png)
