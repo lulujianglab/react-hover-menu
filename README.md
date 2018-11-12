@@ -1,4 +1,4 @@
-*Create a three-level menu component of front-end React to support mouse hover and mouse click expiration menu*
+**Create a three-level menu component of front-end React to support mouse hover and mouse click expiration menu**
 
 ## Install
 
