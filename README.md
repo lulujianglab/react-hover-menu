@@ -1,4 +1,4 @@
-## 创建一个前端React的三级菜单组件，支持鼠标悬浮呼出菜单和鼠标点击呼出菜单
+Create a three-level menu component of front-end React to support mouse hover and mouse click expiration menu
 
 ## Install
 
