@@ -2,13 +2,13 @@
 
 ## Install
 
-```
+```sh
 npm i react-hover-menu
 ```
 
 ## Usage
 
-```
+```js
 import HoverMenu from 'react-hover-menu'
 
 render() {
