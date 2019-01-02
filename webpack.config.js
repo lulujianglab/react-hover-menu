@@ -1,5 +1,5 @@
-const path = require('path');
-const nodeExternals = require('webpack-node-externals');
+const path = require('path')
+const nodeExternals = require('webpack-node-externals')
 
 module.exports = {
   entry: './src/index.js',
@@ -10,7 +10,7 @@ module.exports = {
   },
   module: {
     rules: [
-      {
+      {// 通过babel准换JSX和ES6的代码
         test: /(\.jsx|\.js)$/,
         loader: 'babel-loader',
         exclude: /node_modules/,
@@ -22,13 +22,12 @@ module.exports = {
           ]
         }
       },
-      {//CSS处理
+      {// CSS处理
         test: /\.css$/,
         loader: "style-loader!css-loader?modules",
-        // use: ['style-loader', 'css-loader', "postcss-loader", "less-loader"],
         exclude: /node_modules/,
       },
-      {//antd样式处理
+      {// antd样式处理
         test:/\.css$/,
         exclude:/src/,
         use:[
@@ -41,7 +40,7 @@ module.exports = {
             }
         ]
       },
-      {
+      {// less样式处理
         test: /\.less$/,
         use: 
         [
@@ -77,4 +76,4 @@ module.exports = {
     ]
   },
   externals: [nodeExternals()]
-};
+}

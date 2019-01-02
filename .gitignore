@@ -13,6 +13,9 @@ bin-release/
 *.ipa
 *.apk
 
+# dependencies
+/node_modules
+
 # production
 /dist
 
